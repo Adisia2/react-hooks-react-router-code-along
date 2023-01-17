@@ -129,7 +129,7 @@ Router**. We use them in turn:
    has one prop in our example: `path`.
 
 Let's try it. Copy the above code into `src/index.js` and run `npm start` to
-boot up the application. Once it is running, point your URL to
+boot up the application. Once it is running, point your URL to<App />, document.getElementById("root"));
 `http://localhost:3000/`. What you'll notice is that when you type in the URL it
 will render `Home!`.
 
